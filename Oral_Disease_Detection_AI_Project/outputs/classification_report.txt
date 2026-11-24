@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+     healthy       1.00      1.00      1.00        11
+      cavity       1.00      1.00      1.00        13
+ gum_disease       1.00      1.00      1.00        18
+ oral_lesion       1.00      1.00      1.00        13
+
+    accuracy                           1.00        55
+   macro avg       1.00      1.00      1.00        55
+weighted avg       1.00      1.00      1.00        55
